@@ -1,0 +1,64 @@
+{
+  "brand": "Charleston Crawlspace Co",
+  "domain": "https://charlestoncrawlspaceco.com",
+  "phone_display": "(877) 720-8173",
+  "phone_tel": "+18777208173",
+  "address": {
+    "street": "3425 Uncle Micahs Wy",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29414",
+    "country": "US"
+  },
+  "socials": {
+    "facebook": "https://www.facebook.com/profile.php?id=61593982880698",
+    "instagram": "https://www.instagram.com/charlestoncrawlspaceco/",
+    "youtube": "https://www.youtube.com/@REPLACE-ME",
+    "google_business": "https://g.page/REPLACE-ME",
+    "x": ""
+  },
+  "pricing": {
+    "_note": "Planning ranges shown on the cost page + estimator. Edit to match your real pricing.",
+    "conditions": [
+      {
+        "label": "Dry and fairly clean",
+        "lo": 5.0,
+        "hi": 7.5
+      },
+      {
+        "label": "Damp, some debris or old liner",
+        "lo": 6.5,
+        "hi": 9.5
+      },
+      {
+        "label": "Standing water, heavy debris or visible mold",
+        "lo": 8.0,
+        "hi": 12.0
+      }
+    ],
+    "addons": [
+      {
+        "label": "Drainage and sump pump",
+        "lo": 1800,
+        "hi": 4500
+      },
+      {
+        "label": "Foundation wall insulation",
+        "lo": 2000,
+        "hi": 5500
+      },
+      {
+        "label": "Mold remediation and antimicrobial treatment",
+        "lo": 1500,
+        "hi": 6000
+      }
+    ]
+  },
+  "ga_id": "G-G3BVLQWNNY",
+  "stats": {
+    "jobs": "1,500+",
+    "rating": "4.9"
+  },
+  "testimonials": [],
+  "_testimonials_note": "Add real reviews as {\"quote\":\"...\",\"name\":\"First L.\",\"area\":\"Neighborhood\"}. They render in the proof band automatically."
+}
